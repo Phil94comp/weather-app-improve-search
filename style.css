@@ -3,3 +3,9 @@
     padding: 0 0.5rem;
     border-radius: 0.357rem;
 }
+
+/*Changed the look of the input box to make it stand out. Phillip Andrews*/
+.search-input {
+    background-color: #D3D3D3;
+    border-radius: 5px;
+}
