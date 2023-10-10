@@ -8,4 +8,6 @@
 .search-input {
     background-color: #D3D3D3;
     border-radius: 5px;
+    text-align: center;
+    margin-left: 675px;
 }
