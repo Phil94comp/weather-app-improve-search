@@ -27,5 +27,3 @@ You can launch the server by running the following command:
 ```shell
 npm run dev
 ```
-
-![Alt text](/Images/image.png)
